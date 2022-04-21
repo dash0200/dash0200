@@ -8,9 +8,11 @@ I've been learning to code for 2 years. I started with HTML, CSS, Javascript but
 
 *   🌍  I'm based in Belagavi, Karnataka, India
 *   🧠  I'm learning Laravel, Vue.js, Node.js, Javascript
-### Skills<p align="left">
+
 <a href="https://www.github.com/dash0200" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dash0200?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
+
+### Skills<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" /></a>
