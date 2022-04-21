@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/dash0200?logo=github&style=for-the-
 <div align="left">
 
 <a href="https://www.github.com/dash0200" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-</a><a href="https://www.linkedin.com/in/darshan-vanakudre-33006ba7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a> <a href="https://www.linkedin.com/in/darshan-vanakudre-33006ba7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
 </div>
 
