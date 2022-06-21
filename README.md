@@ -6,7 +6,6 @@ Web Developer
 
 I've been learning to code for 2 years. I started with HTML, CSS, Javascript but have really found a passion in backend developemnt
 
-*   🌍  I'm based in Belagavi, Karnataka, India
 *   🧠  I'm learning Laravel, Vue.js, Node.js, Javascript
 
 <a href="https://www.github.com/dash0200" target="_blank" rel="noreferrer"><img
