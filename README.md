@@ -38,3 +38,4 @@ src="https://img.shields.io/github/followers/dash0200?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/dash0200/YouTube_clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dash0200&repo=YouTube_clone&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br />
+<div width="100%" align="center"><a href="https://github.com/dash0200/BraveProfile_clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dash0200&repo=YouTube_clone&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br />
