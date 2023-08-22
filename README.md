@@ -6,7 +6,7 @@ Web Developer
 
 I've been learning to code for 2 years. I started with HTML, CSS, Javascript but have really found a passion in backend developemnt
 
-*   🧠  I'm learning Laravel, Vue.js, Node.js, Javascript
+*   🧠  I'm learning Node.js, Javascript, Python, Django
 
 <a href="https://www.github.com/dash0200" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dash0200?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
